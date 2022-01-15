@@ -1,0 +1,2 @@
+Esse é meu primeiro projeto de site de vendas.
+Atenção: Esse site não é realmente de vendas, é somente para treinamento de código e para treinamento no desenvolvimento de sites.)
